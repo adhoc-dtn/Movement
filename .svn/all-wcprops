@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/34/trunk/Movement
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/34/trunk/Movement/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/34/trunk/Movement/project.properties
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/34/trunk/Movement/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/34/trunk/Movement/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/34/trunk/Movement/AndroidManifest.xml
+END
